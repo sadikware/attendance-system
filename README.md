@@ -1,1 +1,3 @@
 # attendance-system
+
+## Initial Setup
